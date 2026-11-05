@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-social-nuxt",
+  "capabilityKey": "liberusoftware/module-browser-game-social",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-browser-game-social-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/browser-game/nextjs/social.md",
+  "presentationPlan": "projects/browser-game/nuxt/social.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
